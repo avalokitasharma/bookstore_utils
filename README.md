@@ -1,2 +1,2 @@
 # bookstore_utils-go
-Go utils shared across our entire microservices
+Go utils shared across book store microservices
